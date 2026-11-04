@@ -1,0 +1,284 @@
+[mod]
+id = "fastaudioreload"
+name = "Fast Audio Reload"
+description = "Reloads only the Minecraft audio engine instead of reloading every resource. Also watches audio devices and reconnects automatically."
+group = "dev.fastaudioreload"
+version = "1.0.0"
+author = "exxooqu"
+license = "MIT"
+website_url = "https://github.com/exxooqu-cpu/fast-audio-reload"
+source_url = "https://github.com/exxooqu-cpu/fast-audio-reload"
+issue_tracker = "https://github.com/exxooqu-cpu/fast-audio-reload/issues"
+icon = "assets/fastaudioreload/icon.png"
+
+# Fabric loader 0.16.x is the last line that still runs on Java 8, which is what
+# 1.16.x users have. Newer nodes override this below.
+[fabric]
+deps.fabric-loader = "0.16.14"
+dep_str.fabric-loader = ">=0.14.0"
+
+["1.16.3"]
+deps.minecraft = "1.16.3"
+
+[fabric."1.16.3"]
+dep_str.minecraft = ">=1.16.3 <1.17"
+
+["1.16.4"]
+deps.minecraft = "1.16.4"
+
+[fabric."1.16.4"]
+dep_str.minecraft = ">=1.16.4 <1.17"
+
+["1.16.5"]
+deps.minecraft = "1.16.5"
+
+[fabric."1.16.5"]
+dep_str.minecraft = ">=1.16.5 <1.17"
+
+["1.17"]
+deps.minecraft = "1.17"
+
+[fabric."1.17"]
+dep_str.minecraft = ">=1.17 <1.17.1"
+
+["1.17.1"]
+deps.minecraft = "1.17.1"
+
+[fabric."1.17.1"]
+dep_str.minecraft = ">=1.17.1 <1.18"
+
+["1.18"]
+deps.minecraft = "1.18"
+
+[fabric."1.18"]
+dep_str.minecraft = ">=1.18 <1.18.1"
+
+["1.18.1"]
+deps.minecraft = "1.18.1"
+
+[fabric."1.18.1"]
+dep_str.minecraft = ">=1.18.1 <1.18.2"
+
+["1.18.2"]
+deps.minecraft = "1.18.2"
+
+[fabric."1.18.2"]
+dep_str.minecraft = ">=1.18.2 <1.19"
+
+["1.19"]
+deps.minecraft = "1.19"
+
+[fabric."1.19"]
+dep_str.minecraft = ">=1.19 <1.19.2"
+
+["1.19.2"]
+deps.minecraft = "1.19.2"
+
+[fabric."1.19.2"]
+dep_str.minecraft = ">=1.19.2 <1.19.3"
+
+["1.19.3"]
+deps.minecraft = "1.19.3"
+
+[fabric."1.19.3"]
+dep_str.minecraft = ">=1.19.3 <1.19.4"
+
+["1.19.4"]
+deps.minecraft = "1.19.4"
+
+[fabric."1.19.4"]
+dep_str.minecraft = ">=1.19.4 <1.20"
+
+["1.20"]
+deps.minecraft = "1.20"
+
+[fabric."1.20"]
+dep_str.minecraft = ">=1.20 <1.20.1"
+
+["1.20.1"]
+deps.minecraft = "1.20.1"
+
+[fabric."1.20.1"]
+dep_str.minecraft = ">=1.20.1 <1.20.2"
+
+["1.20.2"]
+deps.minecraft = "1.20.2"
+
+[fabric."1.20.2"]
+dep_str.minecraft = ">=1.20.2 <1.20.3"
+
+["1.20.3"]
+deps.minecraft = "1.20.3"
+
+[fabric."1.20.3"]
+dep_str.minecraft = ">=1.20.3 <1.20.4"
+
+["1.20.4"]
+deps.minecraft = "1.20.4"
+
+[fabric."1.20.4"]
+dep_str.minecraft = ">=1.20.4 <1.20.5"
+
+[neoforge."1.20.4"]
+deps.neoforge = "20.4.253"
+dep_str.minecraft = "[1.20.4,1.21)"
+
+["1.20.5"]
+deps.minecraft = "1.20.5"
+
+[fabric."1.20.5"]
+dep_str.minecraft = ">=1.20.5 <1.20.6"
+
+["1.20.6"]
+deps.minecraft = "1.20.6"
+
+[fabric."1.20.6"]
+dep_str.minecraft = ">=1.20.6 <1.21"
+
+["1.21"]
+deps.minecraft = "1.21"
+
+[fabric."1.21"]
+deps.fabric-loader = "0.19.5"
+dep_str.fabric-loader = ">=0.19.5"
+dep_str.minecraft = ">=1.21 <1.21.1"
+
+["1.21.1"]
+deps.minecraft = "1.21.1"
+
+[fabric."1.21.1"]
+deps.fabric-loader = "0.19.5"
+dep_str.fabric-loader = ">=0.19.5"
+dep_str.minecraft = ">=1.21.1 <1.21.2"
+
+[neoforge."1.21.1"]
+deps.neoforge = "21.1.265"
+dep_str.minecraft = "[1.21.1,1.21.2)"
+
+["1.21.2"]
+deps.minecraft = "1.21.2"
+
+[fabric."1.21.2"]
+deps.fabric-loader = "0.19.5"
+dep_str.fabric-loader = ">=0.19.5"
+dep_str.minecraft = ">=1.21.2 <1.21.3"
+
+["1.21.3"]
+deps.minecraft = "1.21.3"
+
+[fabric."1.21.3"]
+deps.fabric-loader = "0.19.5"
+dep_str.fabric-loader = ">=0.19.5"
+dep_str.minecraft = ">=1.21.3 <1.21.4"
+
+["1.21.4"]
+deps.minecraft = "1.21.4"
+
+[fabric."1.21.4"]
+deps.fabric-loader = "0.19.5"
+dep_str.fabric-loader = ">=0.19.5"
+dep_str.minecraft = ">=1.21.4 <1.21.5"
+
+["1.21.5"]
+deps.minecraft = "1.21.5"
+
+[fabric."1.21.5"]
+deps.fabric-loader = "0.19.5"
+dep_str.fabric-loader = ">=0.19.5"
+dep_str.minecraft = ">=1.21.5 <1.21.6"
+
+["1.21.6"]
+deps.minecraft = "1.21.6"
+
+[fabric."1.21.6"]
+deps.fabric-loader = "0.19.5"
+dep_str.fabric-loader = ">=0.19.5"
+dep_str.minecraft = ">=1.21.6 <1.21.7"
+
+["1.21.7"]
+deps.minecraft = "1.21.7"
+
+[fabric."1.21.7"]
+deps.fabric-loader = "0.19.5"
+dep_str.fabric-loader = ">=0.19.5"
+dep_str.minecraft = ">=1.21.7 <1.21.8"
+
+["1.21.8"]
+deps.minecraft = "1.21.8"
+
+[fabric."1.21.8"]
+deps.fabric-loader = "0.19.5"
+dep_str.fabric-loader = ">=0.19.5"
+dep_str.minecraft = ">=1.21.8 <1.21.9"
+
+["1.21.9"]
+deps.minecraft = "1.21.9"
+
+[fabric."1.21.9"]
+deps.fabric-loader = "0.19.5"
+dep_str.fabric-loader = ">=0.19.5"
+dep_str.minecraft = ">=1.21.9 <1.21.10"
+
+["1.21.10"]
+deps.minecraft = "1.21.10"
+
+[fabric."1.21.10"]
+deps.fabric-loader = "0.19.5"
+dep_str.fabric-loader = ">=0.19.5"
+dep_str.minecraft = ">=1.21.10 <1.21.11"
+
+["1.21.11"]
+deps.minecraft = "1.21.11"
+
+[fabric."1.21.11"]
+deps.fabric-loader = "0.19.5"
+dep_str.fabric-loader = ">=0.19.5"
+dep_str.minecraft = ">=1.21.11 <1.22"
+
+[neoforge."1.21.11"]
+deps.neoforge = "21.11.48"
+dep_str.minecraft = "[1.21.11,1.22)"
+
+["26.1"]
+deps.minecraft = "26.1"
+
+[fabric."26.1"]
+deps.fabric-loader = "0.20.1"
+dep_str.fabric-loader = ">=0.20.1"
+dep_str.minecraft = ">=26.1 <26.1.1"
+
+["26.1.1"]
+deps.minecraft = "26.1.1"
+
+[fabric."26.1.1"]
+deps.fabric-loader = "0.20.1"
+dep_str.fabric-loader = ">=0.20.1"
+dep_str.minecraft = ">=26.1.1 <26.1.2"
+
+["26.1.2"]
+deps.minecraft = "26.1.2"
+
+[fabric."26.1.2"]
+deps.fabric-loader = "0.20.1"
+dep_str.fabric-loader = ">=0.20.1"
+dep_str.minecraft = ">=26.1.2 <26.2"
+
+["26.2"]
+deps.minecraft = "26.2"
+
+[fabric."26.2"]
+deps.fabric-loader = "0.20.1"
+dep_str.fabric-loader = ">=0.20.1"
+dep_str.minecraft = ">=26.2 <26.3"
+
+["26.3"]
+deps.minecraft = "26.3"
+
+[fabric."26.3"]
+deps.fabric-loader = "0.20.1"
+dep_str.fabric-loader = ">=0.20.1"
+dep_str.minecraft = ">=26.3 <26.4"
+
+[neoforge."26.3"]
+deps.neoforge = "26.3.0.101"
+dep_str.minecraft = "[26.3,26.4)"

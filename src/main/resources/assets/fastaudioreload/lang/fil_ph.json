@@ -1,0 +1,5 @@
+{
+  "fastaudioreload.toast.title": "Na-reload ang Audio Engine",
+  "fastaudioreload.toast.duration": "Natapos sa %s ms",
+  "fastaudioreload.button.tooltip": "I-reload ang audio engine (F3 + J)"
+}

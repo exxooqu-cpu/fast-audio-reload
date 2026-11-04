@@ -1,0 +1,5 @@
+{
+  "fastaudioreload.toast.title": "Ljudmotorn har laddats om",
+  "fastaudioreload.toast.duration": "Färdig om %s ms",
+  "fastaudioreload.button.tooltip": "Ladda om ljudmotorn (F3 + J)"
+}

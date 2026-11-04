@@ -1,0 +1,5 @@
+{
+  "fastaudioreload.toast.title": "Ponovno naložen zvočni mehanizem",
+  "fastaudioreload.toast.duration": "Končano v %s ms",
+  "fastaudioreload.button.tooltip": "Znova naložite avdio motor (F3 + J)"
+}

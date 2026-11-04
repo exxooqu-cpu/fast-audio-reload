@@ -1,0 +1,26 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Stonecutter generates one project per Minecraft version here
+versions/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Dev run directory
+run/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets
+.modrinth-token
+.env

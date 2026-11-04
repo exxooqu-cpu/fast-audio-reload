@@ -1,0 +1,5 @@
+{
+  "fastaudioreload.toast.title": "Επαναφόρτωση κινητήρα ήχου",
+  "fastaudioreload.toast.duration": "Ολοκληρώθηκε σε %s ms",
+  "fastaudioreload.button.tooltip": "Φορτώστε ξανά τη μηχανή ήχου (F3 + J)"
+}

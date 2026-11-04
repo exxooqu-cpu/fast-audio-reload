@@ -1,0 +1,5 @@
+{
+  "fastaudioreload.toast.title": "Audio Engine е презареден",
+  "fastaudioreload.toast.duration": "Завършен за %s ms",
+  "fastaudioreload.button.tooltip": "Презаредете аудио двигателя (F3 + J)"
+}

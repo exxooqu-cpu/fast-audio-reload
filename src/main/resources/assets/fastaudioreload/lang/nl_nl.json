@@ -1,0 +1,5 @@
+{
+  "fastaudioreload.toast.title": "Audio-engine opnieuw geladen",
+  "fastaudioreload.toast.duration": "Klaar in %s ms",
+  "fastaudioreload.button.tooltip": "Herlaad de audio-engine (F3 + J)"
+}

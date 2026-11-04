@@ -1,0 +1,5 @@
+{
+  "fastaudioreload.toast.title": "オーディオエンジンがリロードされました",
+  "fastaudioreload.toast.duration": "%s ミリ秒以内に終了しました",
+  "fastaudioreload.button.tooltip": "オーディオエンジンをリロードします (F3 + J)"
+}

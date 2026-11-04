@@ -1,0 +1,5 @@
+{
+  "fastaudioreload.toast.title": "โหลดเครื่องยนต์เสียงแล้ว",
+  "fastaudioreload.toast.duration": "เสร็จสิ้นภายใน %s มิลลิวินาที",
+  "fastaudioreload.button.tooltip": "โหลดเอ็นจิ้นเสียงใหม่ (F3 + J)"
+}

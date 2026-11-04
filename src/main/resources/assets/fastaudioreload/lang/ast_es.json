@@ -1,0 +1,5 @@
+{
+  "fastaudioreload.toast.title": "Motor d'audiu recargáu",
+  "fastaudioreload.toast.duration": "Acabó en %s ms",
+  "fastaudioreload.button.tooltip": "Recargar el motor d'audiu (F3 + J)"
+}

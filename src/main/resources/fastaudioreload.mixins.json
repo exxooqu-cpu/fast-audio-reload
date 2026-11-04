@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.fastaudioreload.mixin",
+  "compatibilityLevel": "${mixin_compat}",
+  "client": [
+    "MixinKeyboardHandler",
+    "MixinMinecraft",
+    "MixinSoundOptionsScreen",
+    "ScreenAccess",
+    "SoundManagerAccess"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "fastaudioreload.toast.title": "Аудио моторот е повторно вчитан",
+  "fastaudioreload.toast.duration": "Завршено за %s ms",
+  "fastaudioreload.button.tooltip": "Вчитајте го повторно аудио моторот (F3 + J)"
+}

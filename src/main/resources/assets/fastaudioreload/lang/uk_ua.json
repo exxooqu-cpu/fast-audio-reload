@@ -1,0 +1,5 @@
+{
+  "fastaudioreload.toast.title": "Звуковий рушій перезавантажено",
+  "fastaudioreload.toast.duration": "Завершено за %s мс",
+  "fastaudioreload.button.tooltip": "Перезавантажте звуковий рушій (F3 + J)"
+}

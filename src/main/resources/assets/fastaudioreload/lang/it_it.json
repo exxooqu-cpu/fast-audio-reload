@@ -1,0 +1,5 @@
+{
+  "fastaudioreload.toast.title": "Motore audio ricaricato",
+  "fastaudioreload.toast.duration": "Terminato tra %s ms",
+  "fastaudioreload.button.tooltip": "Ricarica il motore audio (F3 + J)"
+}

@@ -1,0 +1,5 @@
+{
+  "fastaudioreload.toast.title": "Ses Motoru Yeniden Yüklendi",
+  "fastaudioreload.toast.duration": "%s ms içinde tamamlandı",
+  "fastaudioreload.button.tooltip": "Ses motorunu yeniden yükleyin (F3 + J)"
+}

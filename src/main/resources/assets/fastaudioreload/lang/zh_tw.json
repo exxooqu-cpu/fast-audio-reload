@@ -1,0 +1,5 @@
+{
+  "fastaudioreload.toast.title": "音訊引擎已重新載入",
+  "fastaudioreload.toast.duration": "耗時 %s 毫秒",
+  "fastaudioreload.button.tooltip": "重新載入音訊引擎（F3 + J）"
+}

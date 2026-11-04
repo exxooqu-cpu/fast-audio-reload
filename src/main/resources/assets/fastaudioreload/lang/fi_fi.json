@@ -1,0 +1,5 @@
+{
+  "fastaudioreload.toast.title": "Audiomoottori ladattu uudelleen",
+  "fastaudioreload.toast.duration": "Valmis %s ms",
+  "fastaudioreload.button.tooltip": "Lataa äänimoottori uudelleen (F3 + J)"
+}

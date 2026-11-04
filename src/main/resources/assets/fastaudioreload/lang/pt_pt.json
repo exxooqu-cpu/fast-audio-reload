@@ -1,0 +1,5 @@
+{
+  "fastaudioreload.toast.title": "Mecanismo de áudio recarregado",
+  "fastaudioreload.toast.duration": "Concluído em %s ms",
+  "fastaudioreload.button.tooltip": "Recarregue o mecanismo de áudio (F3 + J)"
+}

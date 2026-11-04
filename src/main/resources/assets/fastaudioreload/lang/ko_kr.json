@@ -1,0 +1,5 @@
+{
+  "fastaudioreload.toast.title": "오디오 엔진이 다시 로드되었습니다",
+  "fastaudioreload.toast.duration": "%s ms 안에 완료됨",
+  "fastaudioreload.button.tooltip": "오디오 엔진 다시 로드 (F3 + J)"
+}

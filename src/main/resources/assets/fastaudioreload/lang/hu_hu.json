@@ -1,0 +1,5 @@
+{
+  "fastaudioreload.toast.title": "Az audiomotor újratöltve",
+  "fastaudioreload.toast.duration": "%s ms alatt elkészült",
+  "fastaudioreload.button.tooltip": "Töltse be újra az audiomotort (F3 + J)"
+}

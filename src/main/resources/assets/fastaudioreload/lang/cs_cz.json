@@ -1,0 +1,5 @@
+{
+  "fastaudioreload.toast.title": "Audio Engine znovu načten",
+  "fastaudioreload.toast.duration": "Dokončeno za %s ms",
+  "fastaudioreload.button.tooltip": "Znovu načtěte zvukový modul (F3 + J)"
+}

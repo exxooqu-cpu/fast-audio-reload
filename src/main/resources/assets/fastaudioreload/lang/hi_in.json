@@ -1,0 +1,5 @@
+{
+  "fastaudioreload.toast.title": "ऑडियो इंजन पुनः लोड किया गया",
+  "fastaudioreload.toast.duration": "%s एमएस में समाप्त हुआ",
+  "fastaudioreload.button.tooltip": "ऑडियो इंजन पुनः लोड करें (F3 + J)"
+}

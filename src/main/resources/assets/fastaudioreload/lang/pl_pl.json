@@ -1,0 +1,5 @@
+{
+  "fastaudioreload.toast.title": "Załadowano ponownie silnik audio",
+  "fastaudioreload.toast.duration": "Zakończono za %s ms",
+  "fastaudioreload.button.tooltip": "Załaduj ponownie silnik audio (F3 + J)"
+}

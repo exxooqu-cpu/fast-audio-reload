@@ -1,0 +1,5 @@
+{
+  "fastaudioreload.toast.title": "Audio dzinējs ir atkārtoti ielādēts",
+  "fastaudioreload.toast.duration": "Pabeigts pēc %s ms",
+  "fastaudioreload.button.tooltip": "Pārlādējiet audio dzinēju (F3 + J)"
+}

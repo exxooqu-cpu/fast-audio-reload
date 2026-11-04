@@ -1,0 +1,5 @@
+{
+  "fastaudioreload.toast.title": "Lydmotoren er lastet inn på nytt",
+  "fastaudioreload.toast.duration": "Ferdig om %s ms",
+  "fastaudioreload.button.tooltip": "Last inn lydmotoren på nytt (F3 + J)"
+}

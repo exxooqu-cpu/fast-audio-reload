@@ -1,0 +1,5 @@
+{
+  "fastaudioreload.toast.title": "Аудиодвижок перезагружен",
+  "fastaudioreload.toast.duration": "Заняло %s мс",
+  "fastaudioreload.button.tooltip": "Перезагрузить аудиодвижок (F3 + J)"
+}
